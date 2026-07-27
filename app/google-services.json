@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735991391407",
+    "project_id": "quizarenaapp-b2f6b",
+    "storage_bucket": "quizarenaapp-b2f6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735991391407:android:8528e838d2eb65af5b205a",
+        "android_client_info": {
+          "package_name": "com.example.advance_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlK3XFK7T-618MS3yX6PYAgtgDM8_8-_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
