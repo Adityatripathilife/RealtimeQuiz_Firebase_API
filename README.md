@@ -185,16 +185,6 @@ The application fetches fresh multiple-choice quiz questions directly from the O
 - 🌍 Multiplayer Quiz Support
 
 ---
-
-# 👨‍💻 Author
-
-**Aditya Tripathi**
-
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-
----
-
 ## ⭐ Support
 
 If you found this project helpful or interesting, consider giving it a **⭐ Star** on GitHub. It helps others discover the project and motivates future improvements.
